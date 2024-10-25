@@ -1,6 +1,10 @@
 # Introoduction
 This is a backup for an old version of fastscape used in the study:
-xxx
+
+Controls on Asymmetric Continental Crustal Thinning to Symmetric Mantle Exhumation at Magma-poor Rifted Margins: Processes constrained 
+by the West Iberia-Newfoundland Conjugate Margins.
+Yuan Wang, Zhonglan Liu, W Roger Buck, Xuan-Long Shan, Dian-Ju Wang, Wei-Min Li, Wen-Liang Xu
+
 For more information of fastscape, see https://github.com/fastscape-lem/fastscapelib-fortran
 
 # Fastscapelib-fortran
